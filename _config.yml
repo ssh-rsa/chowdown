@@ -1,7 +1,7 @@
 # Site settings
 title: Piggycooks!
 email: ssh-rsa@altmails.com
-description: The plain text recipe database for hackers
+description: Ema's Super Cool and Awesome Recipe Page
 baseurl: "https://piggycooks.com"
 language: "en"
 lang_direction: "ltr"
