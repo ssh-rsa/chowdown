@@ -13,3 +13,7 @@ directions:
 - Beat cream and sugar with mixer until stiff peaks form.
 - Beat in Vanilla
 - Put into piping bag!
+
+---
+
+A general purpose whipped cream topping!
